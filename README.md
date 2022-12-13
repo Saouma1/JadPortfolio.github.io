@@ -1,6 +1,3 @@
-remote_theme: pages-themes/cayman@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
 # Introduction: 
 
 ## Ambitious computer science student focusing on solving real-world problems with an entrepreneur approach. Student athlete, captain on the soccer team showing on and off the field leadership in a competitive NCAA region. Seeking an internship that allows me to best utilize my skill set, work on complex problems, and be part of a team that delivers positive outcomes. Here are some of the projects that I worked on during my time at school.
