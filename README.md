@@ -1,7 +1,7 @@
 #JadPortfolio.github.io
 # PROJECTS:
 
-  * Covid contact tracing program that tracks the spread of Covid in a population with visualization.(http://bridges-cs.herokuapp.com/assignments/9999/jsaouma)
+  * Covid contact tracing program that tracks the spread of Covid in a population with visualization. Link to code: https://github.com/Saouma1/Covid-Contact-Tracing       (http://bridges-cs.herokuapp.com/assignments/9999/jsaouma)
    ![Covid-Tracing-Project](https://user-images.githubusercontent.com/88504029/207231236-b7001d92-2d7d-47b5-bff3-6a6009fb069c.png)
   * TIC TAC TOE program (Java)
   * End to end websites development and publishing it jsaouma.com (html & CSS) (https://jsaouma.com/)
