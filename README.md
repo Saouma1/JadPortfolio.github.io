@@ -1,4 +1,6 @@
-#JadPortfolio.github.io
+# Introduction: 
+
+## Ambitious computer science student focusing on solving real-world problems with an entrepreneur approach. Student athlete, captain on the soccer team showing on and off the field leadership in a competitive NCAA region. Seeking an internship that allows me to best utilize my skill set, work on complex problems, and be part of a team that delivers positive outcomes. Here are some of the projects that I worked on during my time at school.
 # PROJECTS:
 
   * Covid contact tracing program that tracks the spread of Covid in a population with visualization. [Link to code](https://github.com/Saouma1/Covid-Contact-Tracing)       (http://bridges-cs.herokuapp.com/assignments/9999/jsaouma)
