@@ -33,7 +33,7 @@
 *	Hobbies: Soccer, Coding Club, Video Games
 
 
-# **Social Links:**
+# **Social Media Links:**
 * [Instagram](https://www.instagram.com/jad_saouma/)
 * [LinkedIn](https://www.linkedin.com/in/jad-saouma-a57123212/)
 * [Facebook](https://www.facebook.com/jad.sawma.5/)
