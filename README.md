@@ -19,6 +19,20 @@
 *	Increased all Johnson Brothers’ websites performances and enabled the first ADA compliant websites.
 *	Cleaned up 500 users in an internal software to improve security and enhance performance.
 
+### IT Service Desk –Technology Assistant - Team Leader
+### The College of Saint Scholastica
+*	Use extensive knowledge of computers to provide solutions to technology questions.
+*	Manage technology escalation from faculty and staff to ensure smooth daily operations.
+*	Solve software and hardware problems using troubleshooting and research techniques.
+*	Develop the IT Service desk’s guide, train new employees and manage weekly meetings.
+
+# **SKILLS & INTERESTS**
+*	Skills: Java, Python, C#, HTML, CSS, Time Management. 
+*	Tools: Microsoft Office, NetBeans, Notepad++, Eclipse, Lucid Chart, WordPress, SQL.
+*	Multilingual: Fluent in English, French and Arabic.
+*	Hobbies: Soccer, Coding Club, Video Games
+
+
 # **Social Links:**
 * [Instagram](https://www.instagram.com/jad_saouma/)
 * [LinkedIn](https://www.linkedin.com/in/jad-saouma-a57123212/)
