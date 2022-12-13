@@ -10,3 +10,4 @@
   ![image](https://user-images.githubusercontent.com/88504029/207231421-2bfa5dd3-743d-4ab6-b0da-66747a87201d.png)
   * Built motion-detecting and alert system on a raspberry pi (Python) [Link to a youtube video](https://youtube.com/shorts/nakbrYP9Ae8)
   * Admission management system program for students and instructors (Java) [Link to Code](https://github.com/Saouma1/Admission-mangement-Program)
+theme: slate
