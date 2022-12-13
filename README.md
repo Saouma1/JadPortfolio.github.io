@@ -12,15 +12,15 @@
   * Admission management system program for students and instructors (Java) [Link to Code](https://github.com/Saouma1/Admission-mangement-Program)
 
 # **PROFESSIONAL EXPERIENCE & LEADERSHIP**
-### IT Business Analyst/Application Development Intern
-### Johnson Brothers Distribution
+### *IT Business Analyst/Application Development Intern*
+### *Johnson Brothers Distribution*
 *	Implemented an automation to improve workflows (automated 8 websites performance reporting)
 *	Used and excelled in multiple tools and technology like content management solution (CMS) on WordPress, ADA detector, and google analytics.
 *	Increased all Johnson Brothers’ websites performances and enabled the first ADA compliant websites.
 *	Cleaned up 500 users in an internal software to improve security and enhance performance.
 
-### IT Service Desk –Technology Assistant - Team Leader
-### The College of Saint Scholastica
+### *IT Service Desk –Technology Assistant - Team Leader*
+### *The College of Saint Scholastica*
 *	Use extensive knowledge of computers to provide solutions to technology questions.
 *	Manage technology escalation from faculty and staff to ensure smooth daily operations.
 *	Solve software and hardware problems using troubleshooting and research techniques.
